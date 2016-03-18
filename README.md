@@ -1,7 +1,6 @@
 This repo includes code for a simple, interactive Android calculator made in Android Studio.
 
-The code was developed in a YouTube tutorial video called [Rapidly Prototyping a Calculator App in Android](https://youtu.be/2-mmH_nOE9Q)
-The tutorial assumes very little previous knowledge of Android but experience with Java.
+The code was developed in a YouTube tutorial video called [Rapidly Prototyping a Calculator App in Android](https://youtu.be/2-mmH_nOE9Q). I suggest watching the video if you want to better understand how the calculator was developed and various design decisions. The video tutorial assumes very little previous knowledge of Android but experience with Java.
 
 The video covers:
 1. How to use Android Studio's drag-and-drop WYSIWYG interface along with the declarative XML interface to build user interfaces
