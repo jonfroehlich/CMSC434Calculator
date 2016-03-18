@@ -9,7 +9,7 @@ The video covers:
 4. How to style your interface
 5. How to use Toast and a few other tips.
 
-I recorded the video in 2048×1280 so you should watch it in high resolution.
+I recorded the video in 2048×1280 so you should watch it in high resolution on YouTube.
 
 This code and video was originally developed for my Introduction to Human-Computer Interaction class at the University of Maryland:
 http://cmsc434-s16.wikispaces.com/
