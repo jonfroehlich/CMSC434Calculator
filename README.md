@@ -1,5 +1,7 @@
-This is the demo code for the YouTube video [Rapidly Prototyping a Calculator App in Android](https://youtu.be/2-mmH_nOE9Q)
-This video provides an introduction to creating an interactive application in Android Studio for my Introduction to Human-Computer Interaction class at the University of Maryland. The introduction assumes very little previous knowledge of Android but experience with Java.
+This project is a simple, interactive Android calculator made in Android Studio.
+
+The code was developed in a YouTube tutorial video called [Rapidly Prototyping a Calculator App in Android](https://youtu.be/2-mmH_nOE9Q)
+The tutorial assumes very little previous knowledge of Android but experience with Java.
 
 The video covers:
 1. How to use Android Studio's drag-and-drop WYSIWYG interface along with the declarative XML interface to build user interfaces
@@ -10,5 +12,5 @@ The video covers:
 
 I recorded the video in 2048×1280 so you should watch it in high resolution.
 
-The class website:
+This code and video was originally developed for my Introduction to Human-Computer Interaction class at the University of Maryland:
 http://cmsc434-s16.wikispaces.com/
